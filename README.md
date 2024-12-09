@@ -1,4 +1,4 @@
-# imgnxsound
+# ImgNX Webpack Template
 
 <!-- ! Todo: README -->
 
